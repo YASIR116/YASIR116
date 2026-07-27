@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a 4th-year **M.Tech Integrated Computer Science Engineering** student specializing in **Cyber Security & Digital Forensics** at SRM Institute of Science & Technology (CGPA: 8.6/10). I'm passionate about ethical hacking, penetration testing, and building tools that make systems more secure.
+I'm a 4th-year **M.Tech Integrated Computer Science Engineering** student specializing in **Cyber Security & Digital Forensics** at SRM Institute of Science & Technology. I'm passionate about ethical hacking, penetration testing, and building tools that make systems more secure.
 
 - 🔭 Currently building **Decoy-Based IDS/IPS using Honeypot Logs** and other security-focused projects
 - 🌱 Actively pursuing certifications in offensive security and network defense
