@@ -1,105 +1,120 @@
-<h1 align="center">Hi, I'm Mohammed Yasir 👋</h1>
-<h3 align="center">Cybersecurity Undergraduate | Ethical Hacker | Penetration Tester | Digital Forensics Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EBFA5&center=true&vCenter=true&width=600&lines=Securing+Systems%2C+One+Vulnerability+at+a+Time;Penetration+Testing+%7C+Network+Security;Building+IDS%2FIPS+and+Real-World+Security+Tools;Always+Learning%2C+Always+Hacking+Ethically" alt="Typing SVG" />
-</p>
+<img src="assets/hero.gif" alt="Mohammed Yasir — Cybersecurity and Digital Forensics" width="100%">
 
----
+<img src="assets/typing.svg" alt="Cybersecurity and Digital Forensics at SRMIST. Ethical hacking and penetration testing. Building IDS/IPS on honeypot logs. Recon, scanning and traffic analysis. Open to cybersecurity internships." width="640">
 
-### 🧑‍💻 About Me
+<a href="https://www.linkedin.com/in/smyasir-grad028/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://tryhackme.com/p/JoyBoy025">TryHackMe</a>
 
-I'm a 4th-year **M.Tech Integrated Computer Science Engineering** student specializing in **Cyber Security & Digital Forensics** at SRM Institute of Science & Technology. I'm passionate about ethical hacking, penetration testing, and building tools that make systems more secure.
+</div>
 
-- 🔭 Currently building **Decoy-Based IDS/IPS using Honeypot Logs** and other security-focused projects
-- 🌱 Actively pursuing certifications in offensive security and network defense
-- 💡 Interested in Penetration Testing, Vulnerability Assessment, OSINT, and Digital Forensics
-- 🎯 Looking for **internship/full-time opportunities** in Cybersecurity, SOC Analysis, or Penetration Testing
-- ⚡ Fun fact: I enjoy setting up honeypots to watch attackers walk into traps I built
+<br>
 
----
+<img src="assets/sections/about.svg" alt="About" width="100%">
 
-### 🛠️ Tools & Technologies
+I'm **Mohammed Yasir**, an M.Tech Integrated student in Computer Science & Engineering at **SRMIST, Chennai** (2023–2028), specialising in **Cybersecurity & Digital Forensics**.
 
-**Security Tools**
-<p>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nessus-00A97F?style=for-the-badge&logoColor=white"/>
-</p>
+My work sits on both sides of network security: **recon and vulnerability assessment** on the offensive side, and **honeypot-driven intrusion detection and prevention** on the defensive side. My main build so far is a decoy-based IDS/IPS that turns honeypot and Suricata logs into ML detections and automatic IP blocking, built with two teammates. Day to day I practise ethical hacking and penetration testing on Kali Linux, and I've interned in the field at **ShadowFox** and **CFSS Global**.
 
-**Programming & Web**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+**Open to cybersecurity internships** (Chennai, hybrid or remote).
 
-**Core Competencies**
-`Ethical Hacking` `Penetration Testing` `Vulnerability Assessment` `Network Security` `Digital Forensics` `OSINT`
+<br>
 
----
+<img src="assets/sections/arsenal.svg" alt="Technical Arsenal" width="100%">
 
-### 🚀 Featured Projects
+<img src="assets/icons/cat-programming.svg" alt="Programming"><br>
+<img src="assets/icons/python.svg" alt="Python"> <img src="assets/icons/c.svg" alt="C"> <img src="assets/icons/cpp.svg" alt="C++"> <img src="assets/icons/java.svg" alt="Java"> <img src="assets/icons/php.svg" alt="PHP"> <img src="assets/icons/javascript.svg" alt="JavaScript"> <img src="assets/icons/htmlcss.svg" alt="HTML and CSS">
 
-| Project | Description | Tech Stack |
+<img src="assets/icons/cat-security.svg" alt="Cybersecurity"><br>
+<img src="assets/icons/kali.svg" alt="Kali Linux"> <img src="assets/icons/nmap.svg" alt="Nmap"> <img src="assets/icons/wireshark.svg" alt="Wireshark"> <img src="assets/icons/burp.svg" alt="Burp Suite"> <img src="assets/icons/metasploit.svg" alt="Metasploit"> <img src="assets/icons/nessus.svg" alt="Nessus"> <img src="assets/icons/gobuster.svg" alt="Gobuster"> <img src="assets/icons/cowrie.svg" alt="Cowrie"> <img src="assets/icons/suricata.svg" alt="Suricata">
+
+<img src="assets/icons/cat-dev.svg" alt="Development and data"><br>
+<img src="assets/icons/flask.svg" alt="Flask"> <img src="assets/icons/mysql.svg" alt="MySQL"> <img src="assets/icons/sqlite.svg" alt="SQLite"> <img src="assets/icons/sklearn.svg" alt="scikit-learn">
+
+<img src="assets/icons/cat-platforms.svg" alt="Platforms"><br>
+<img src="assets/icons/linux.svg" alt="Linux"> <img src="assets/icons/git.svg" alt="Git"> <img src="assets/icons/github.svg" alt="GitHub">
+
+<br>
+
+<img src="assets/sections/projects.svg" alt="Featured Projects" width="100%">
+
+### [Decoy-Based IDS/IPS using Honeypot Logs](https://github.com/YASIR116/Decoy-Based-IDS-IPS-Using-Honeypot-Logs)
+`Python` · `Flask` · `scikit-learn` · `Cowrie` · `Dionaea` · `Suricata` · `iptables`
+
+<a href="https://github.com/YASIR116/Decoy-Based-IDS-IPS-Using-Honeypot-Logs"><img src="assets/projects/ids-pipeline.gif" alt="Animated pipeline: honeypot and Suricata logs flow through a parser and ML detection; malicious IPs are blocked, benign traffic is logged to the dashboard" width="100%"></a>
+
+Honeypots (**Cowrie**, **Dionaea**) and **Suricata** generate attack logs; a parser turns them into features, and **Isolation Forest + Random Forest** models flag malicious IPs. Flagged IPs are **blocked automatically with iptables** (with a 24-hour unblock), and a **Flask dashboard** shows what's happening.
+*Team project with Jeyabalan and Sathyaseelan, Feb–Apr 2026.*
+
+<br>
+
+### [VulnWeb Recon & Traffic Analysis](https://github.com/YASIR116/VulnWeb-Recon-and-Traffic-Analysis)
+`Nmap` · `Gobuster` · `Dirb` · `Wireshark` · `Kali Linux`
+
+<a href="https://github.com/YASIR116/VulnWeb-Recon-and-Traffic-Analysis"><img src="assets/projects/vulnweb-recon.gif" alt="Animated workflow: port scan, directory enumeration, then traffic analysis against testphp.vulnweb.com" width="100%"></a>
+
+A documented three-phase recon exercise against Acunetix's intentionally vulnerable **testphp.vulnweb.com** (a sanctioned practice target): port scanning found **4 open ports**, directory enumeration surfaced exposed paths including a leftover **/CVS**, and a packet capture showed **login credentials sent in plaintext over HTTP**. Each phase has a write-up, plus a consolidated mitigations file.
+
+<br>
+
+#### More builds
+
+<table>
+<tr>
+<td width="50%"><b><a href="https://github.com/YASIR116/MEWSIC">MEWSIC</a></b><br>Music recommendation web platform.<br><code>PHP</code> <code>MySQL</code> <code>HTML/CSS/JS</code></td>
+<td width="50%"><b><a href="https://github.com/YASIR116/Rentify-">Rentify</a></b><br>Peer-to-peer platform for renting items.<br><code>Python</code></td>
+</tr>
+</table>
+
+<!--
+  READY TO PUBLISH? Once these repositories are public: move the two <td> cells below into the <table> above (or a new <table>), fix the URLs, and delete this comment wrapper.
+  Only add a description you can stand behind (what it does, stack) - no claims you can't show.
+
+<tr>
+<td width="50%"><b><a href="https://github.com/YASIR116/REPO-NAME">AI Chess Game</a></b><br>One-line description.<br><code>Tech</code></td>
+<td width="50%"><b><a href="https://github.com/YASIR116/REPO-NAME">Hospital Management System</a></b><br>One-line description.<br><code>Tech</code></td>
+</tr>
+-->
+
+<br>
+
+<img src="assets/sections/credentials.svg" alt="Credentials" width="100%">
+
+**Experience**
+
+| Period | Role |
+|---|---|
+| 2026 | **Ethical Hacking & Penetration Testing Intern** · CFSS Global |
+| Mar – Apr 2025 | **Cybersecurity Intern** · ShadowFox (remote) · Kali Linux, vulnerability scanning |
+
+**Certifications**
+
+| Certification | Issuer | Date |
 |---|---|---|
-| 🕵️ **[Decoy-Based IDS/IPS using Honeypot Logs](#)** | Honeypot-based intrusion detection system that lures attackers, parses logs in real time, and visualizes attack timelines on an interactive dashboard | Python, Flask, HTML, CSS, JS |
-| 🏠 **[Rentify – P2P Rental Platform](#)** | Peer-to-peer marketplace for renting household items, built with secure authentication and input validation to prevent common web vulnerabilities | Full-stack Web |
-| 🎵 **[MEWSIC – Music Recommendation System](#)** | Web platform recommending songs based on user listening history and preferences | PHP, MySQL, HTML, CSS, JS |
-| 🛡️ **VAPT – Vulnerability Assessment & Penetration Testing** | Systematic vulnerability assessment using Nmap scanning & directory brute-forcing, with documented remediation strategies | Nmap, Gobuster |
+| **Fortinet Network Security Expert Level 1: Certified Associate** | Fortinet | Issued Nov 2026 · expires Nov 2028 |
+| **Certified Network Security Practitioner (CNSP)** | The SecOps Group | Issued Nov 2025 |
+| **Check Point Certified Security Administrator (CCSA)** | Check Point | — |
 
-> 💡 *Tip: Replace the `#` links above with your actual GitHub repo URLs once uploaded, so recruiters can click straight through to your code.*
+**Education** — M.Tech Integrated, CSE with Cyber Security & Digital Forensics · SRMIST, Kattankulathur, Chennai · 2023–2028
 
----
+<br>
 
-### 💼 Experience
+<img src="assets/sections/analytics.svg" alt="GitHub Analytics" width="100%">
 
-**Cyber Security Analyst Intern** @ ShadowFox (Remote) — *Mar 2025 – Apr 2025*
-- Performed reconnaissance & footprinting using WhatWeb and Wireshark
-- Conducted network scanning and traffic analysis with Nmap
-- Executed directory brute-forcing using Gobuster and DirBuster
+<img src="assets/generated/stats.svg" alt="GitHub statistics: public repositories, stars, contributions and top languages" width="100%">
 
----
+<br>
 
-### 📜 Certifications
+<img src="assets/sections/activity.svg" alt="Contribution Trace" width="100%">
 
-- Palo Alto Networks – AICTE Virtual Internship
-- Forage – Mastercard Cybersecurity Virtual Experience
-- Forage – Deloitte Australia Cyber Job Virtual Experience
-- NPTEL – Cryptography & Network Security
-- NPTEL – Programming in Java
-- Udemy – ISC2 Cybersecurity
-- SecOps Group – Certified Network Security Practitioner (CNSP)
+<img src="https://raw.githubusercontent.com/YASIR116/YASIR116/output/snake.svg" alt="Snake animation eating through my GitHub contribution graph" width="100%">
 
----
+<br>
 
-### 📊 GitHub Stats
+<img src="assets/sections/connect.svg" alt="Connect" width="100%">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YASIR116&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASIR116&layout=compact&theme=radical&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASIR116&theme=radical&hide_border=true"/>
-</p>
+<a href="https://github.com/YASIR116"><img src="assets/icons/link-github.svg" alt="GitHub — YASIR116"></a> <a href="https://www.linkedin.com/in/smyasir-grad028/"><img src="assets/icons/link-linkedin.svg" alt="LinkedIn — Mohammed Yasir"></a> <a href="https://tryhackme.com/p/JoyBoy025"><img src="assets/icons/link-tryhackme.svg" alt="TryHackMe — JoyBoy025"></a>
 
----
+<br>
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/smyasir-grad028/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/JoyBoy025"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
-  <a href="mailto:mdyasir2004116@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<p align="center"><i>Open to Cybersecurity Internships, SOC Analyst, and Penetration Testing roles.</i></p>
-
+<img src="assets/footer.svg" alt="Understand the attack. Build the defense." width="100%">
